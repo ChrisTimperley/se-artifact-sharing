@@ -4,6 +4,7 @@ This repository provides the associated publication analysis dataset and survey 
 for the research paper,
 "Understanding and Improving Artefact Sharing in Software Engineering Research",
 submitted to [Empirical Software Engineering](https://www.springer.com/journal/10664).
+An unrefereed preprint for the paper will be uploaded to arXiv.
 
 The study was designed, conducted, and reported by the following investigators:
 
@@ -13,7 +14,7 @@ The study was designed, conducted, and reported by the following investigators:
 * [Michael Hilton](http://www.cs.cmu.edu/~mhilton) (Carnegie Mellon University)
 
 If you have any questions about the research or this replication package, you should
-email any of the investigators above.
+email any of the investigators listed above.
 
 
 ## Citation Guidelines
