@@ -40,3 +40,7 @@ Below is a description of the contents of this repository:
 * `consent-form.pdf`: provides the form that was used by participants to
   give their consent for the investigators to use their responses as part of the
   study.
+
+
+Note that, due to the risk of reidentification, we do not provide our survey data
+as part of our replication package.
