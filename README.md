@@ -19,6 +19,13 @@ email any of the investigators listed above.
 
 ## Citation Guidelines
 
+If this replication package or the results of the associated study has informed
+your research, consider citing our paper as follows:
+
+```
+(I will add this after we upload to arXiv.)
+```
+
 
 ## Contents
 
