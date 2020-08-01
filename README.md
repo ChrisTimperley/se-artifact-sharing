@@ -49,3 +49,33 @@ as part of our replication package.
 
 
 ### Data Format: Publication Analysis
+
+The publication analysis, represented as a YAML document, describes all technical
+track publications at [ICSE](http://www.icse-conferences.org/),
+[ASE](https://dl.acm.org/conference/ase),
+[FSE](https://dl.acm.org/conference/fse),
+and [EMSE](https://www.springer.com/journal/10664)
+between 2014 and 2018, inclusive.
+Each paper is described as an object with the following fields:
+
+* `authors`: a list of the authors of the paper, given by their `name` and
+  `affiliations` according to the paper.
+* `title`: the title of the paper.
+* `venue`: the venue at which the paper was published
+  (i.e., `ICSE`, `FSE`, `ASE`, or `EMSE`).
+* `pages`: the pages at which the paper appears in the associated journal
+  edition or conference proceedings, given as `start-end`, where `end`
+  is inclusive (e.g., `2900-2909`).
+* `year`: the year in which the paper was published.
+* `doi`: the DOI (digital object identifier) for the paper.
+* `artifact-links`: a list of the artifacts included in the paper that
+  are associated with that paper (i.e., we do not count artefacts produced
+  by another author/study). Each link is described by its `url`, a
+  boolean flag indicating whether or not the artefact was accessible upon
+  inspection `is-alive`, and, in the case that the URL redirects to another,
+  `redirects-to` gives the destination URL.
+
+**Provenance:**
+The contents of the document were obtained through a combination of (a)
+scraping [dblp](https://dblp.uni-trier.de/), and (b) manually identifying and
+checking the liveness of the links contained in each paper.
