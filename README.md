@@ -31,7 +31,8 @@ your research, consider citing our paper as follows:
 
 Below is a description of the contents of this repository:
 
-* `publication-analysis.yml`: contains the results of our publication analysis.
+* [`publication-analysis.yml`](./publication-analysis.yml):
+  contains the results of our publication analysis.
   A description of the format of this file is given below.
 * `survey-questionnaire.pdf`: outlines the questionnaire that was given to
   participants and describes the branching logic that was used to target
