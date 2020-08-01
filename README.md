@@ -31,6 +31,8 @@ your research, consider citing our paper as follows:
 
 Below is a description of the contents of this repository:
 
+* `publication-analysis.yml`: contains the results of our publication analysis.
+  A description of the format of this file is given below.
 * `survey-questionnaire.pdf`: outlines the questionnaire that was given to
   participants and describes the branching logic that was used to target
   specific subpopulations (e.g., past AEC members).
@@ -44,3 +46,6 @@ Below is a description of the contents of this repository:
 
 Note that, due to the risk of reidentification, we do not provide our survey data
 as part of our replication package.
+
+
+### Data Format: Publication Analysis
