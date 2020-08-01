@@ -34,16 +34,18 @@ Below is a description of the contents of this repository:
 * [`publication-analysis.yml`](./publication-analysis.yml):
   contains the results of our publication analysis.
   A description of the format of this file is given below.
-* `survey-questionnaire.pdf`: outlines the questionnaire that was given to
+* [`survey-questionnaire.pdf`](./survey-questionnaire.pdf):
+  outlines the questionnaire that was given to
   participants and describes the branching logic that was used to target
   specific subpopulations (e.g., past AEC members).
-* `recruitment-email.pdf`: provides the recruitment email that was sent to 744
+* [`recruitment-email.pdf`](./recruitment-email.pdf):
+  provides the recruitment email that was sent to 744
   validated participants, all of whom had published at least one technical-track
   paper at ICSE, FSE, ASE, or EMSE in 2018.
-* `consent-form.pdf`: provides the form that was used by participants to
+* [`consent-form.pdf`](./consent-form.pdf):
+  provides the form that was used by participants to
   give their consent for the investigators to use their responses as part of the
   study.
-
 
 Note that, due to the risk of reidentification, we do not provide our survey data
 as part of our replication package.
