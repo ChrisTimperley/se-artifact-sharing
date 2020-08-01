@@ -27124,7 +27124,7 @@
   kind: OriginalPaper
   pages: 1-38
   title: 'How changes affect software entropy: an empirical study'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27145,7 +27145,7 @@
   pages: 39-68
   title: Contributions of model checking and CoFI methodology to the development of
     space embedded software
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27162,7 +27162,7 @@
   kind: OriginalPaper
   pages: 69-104
   title: A case study on bypass testing of web applications
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27183,7 +27183,7 @@
   kind: OriginalPaper
   pages: 105-153
   title: An empirically based terminology and taxonomy for global software engineering
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27199,7 +27199,7 @@
   kind: OriginalPaper
   pages: 154-181
   title: Software defect prediction using Bayesian networks
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27221,7 +27221,7 @@
   kind: OriginalPaper
   pages: 182-212
   title: Static test case prioritization using topic models
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27239,7 +27239,7 @@
   pages: 213-240
   title: 'MND-SCEMP: an empirical study of a software cost estimation modeling process
     in the defense domain'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27256,7 +27256,7 @@
   pages: 241-266
   title: 'Investigation of individual factors impacting the effectiveness of requirements
     inspections: a replicated experiment'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27275,7 +27275,7 @@
   pages: 277-302
   title: 'On the role of tests in test-driven development: a differentiated and partial
     replication'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27291,7 +27291,7 @@
   pages: 303-342
   title: Are test cases needed? Replicated comparison between exploratory and test-case-based
     software testing
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27306,7 +27306,7 @@
   pages: 343-377
   title: A replicated quasi-experimental study on the influence of personality and
     team climate in software development
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27329,7 +27329,7 @@
   pages: 378-417
   title: 'Effectiveness for detecting faults within and outside the scope of testing
     techniques: an independent replication'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27344,7 +27344,7 @@
   pages: 419-464
   title: Examination of the software architecture change characterization scheme using
     three empirical studies
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27373,7 +27373,7 @@
   kind: OriginalPaper
   pages: 465-500
   title: Configuring latent Dirichlet allocation based feature location
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27403,7 +27403,7 @@
   pages: 501-557
   title: 'Replication of empirical studies in software engineering research: a systematic
     mapping study'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27418,7 +27418,7 @@
   pages: 558-581
   title: An industrial study of applying input space partitioning to test financial
     calculation engines
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27441,7 +27441,7 @@
   pages: 582-618
   title: On using machine learning to automatically classify software applications
     into domain categories
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27462,7 +27462,7 @@
   pages: 619-654
   title: What are developers talking about? An analysis of topics and trends in Stack
     Overflow
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27483,7 +27483,7 @@
   pages: 655-677
   title: An empirical study of control logic specifications for programmable logic
     controllers
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27499,7 +27499,7 @@
   kind: OriginalPaper
   pages: 678-713
   title: Comprehensibility of UML-based software product line specifications
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27517,7 +27517,7 @@
   pages: 714-752
   title: Investigating the effects of personality traits on pair programming in a
     higher education setting through a family of experiments
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27531,7 +27531,7 @@
   kind: OriginalPaper
   pages: 775-821
   title: Predicting object-oriented class reuse-proneness using internal quality attributes
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27555,7 +27555,7 @@
   pages: 822-856
   title: 'Data collection in global software engineering research: learning from past
     experience'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27576,7 +27576,7 @@
   pages: 857-884
   title: A flexible method to estimate the software development effort based on the
     classification of projects and localization of comparisons
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27596,7 +27596,7 @@
   kind: OriginalPaper
   pages: 885-925
   title: Conducting quantitative software engineering studies with Alitheia Core
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27611,7 +27611,7 @@
   pages: 926-954
   title: The impact of UML modeling on defect density and defect resolution time in
     a proprietary system
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27632,7 +27632,7 @@
   pages: 955-1008
   title: "On the variation and specialisation of workload\u2014A case study of the\
     \ Gnome ecosystem community"
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27649,7 +27649,7 @@
   kind: OriginalPaper
   pages: 1009-1039
   title: Correlations between bugginess and time-based commit characteristics
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27678,7 +27678,7 @@
   pages: 1040-1074
   title: A family of experiments to assess the effectiveness and efficiency of source
     code obfuscation techniques
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27690,7 +27690,7 @@
   pages: 1075-1110
   title: An evaluation of the statistical convertibility of Function Points into COSMIC
     Function Points
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27703,7 +27703,7 @@
   pages: 1111-1143
   title: 'Assessing the capability of code smells to explain maintenance problems:
     an empirical study combining quantitative and qualitative data'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27727,7 +27727,7 @@
   pages: 1144-1168
   title: Challenges and industry practices for managing software variability in small
     and medium sized enterprises
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27752,7 +27752,7 @@
   kind: OriginalPaper
   pages: 1197-1224
   title: 'Agile vs. structured distributed software development: A case study'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27774,7 +27774,7 @@
   pages: 1225-1258
   title: 'From offshore outsourcing to insourcing and partnerships: four failed outsourcing
     attempts'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27792,7 +27792,7 @@
   kind: OriginalPaper
   pages: 1261-1298
   title: High-MCC Functions in the Linux Kernel
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27817,7 +27817,7 @@
   kind: OriginalPaper
   pages: 1299-1334
   title: Measuring and modeling programming experience
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27840,7 +27840,7 @@
   kind: OriginalPaper
   pages: 1335-1382
   title: An empirical study on the impact of static typing on software maintainability
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27865,7 +27865,7 @@
   kind: OriginalPaper
   pages: 1383-1420
   title: 'Labeling source code with information retrieval methods: an empirical study'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27879,7 +27879,7 @@
   pages: 1423-1465
   title: An experimental evaluation of the importance of randomness in hill climbing
     searches applied to software engineering problems
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27896,7 +27896,7 @@
   kind: OriginalPaper
   pages: 1466-1501
   title: 'AutoRELAX: automatically RELAXing a goal model to address uncertainty'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -27921,7 +27921,7 @@
   pages: 1502-1530
   title: 'Evolving robust networks for systems-of-systems: is it viable for large
     networks?'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27941,7 +27941,7 @@
   pages: 1531-1564
   title: 'Software process evaluation: a machine learning framework with application
     to defect management process'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -27959,7 +27959,7 @@
   pages: 1565-1616
   title: 'Recovering from a decade: a systematic mapping of information retrieval
     approaches to software traceability'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -27981,7 +27981,7 @@
   kind: OriginalPaper
   pages: 1617-1664
   title: 'Automating extract class refactoring: an improved method and its evaluation'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28008,7 +28008,7 @@
   kind: OriginalPaper
   pages: 1665-1705
   title: Bug characteristics in open source software
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28029,7 +28029,7 @@
   pages: 1706-1753
   title: An experimental investigation on the effects of context on source code identifiers
     splitting and expansion
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28052,7 +28052,7 @@
   kind: OriginalPaper
   pages: 1754-1780
   title: An empirical study of identifier splitting techniques
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28069,7 +28069,7 @@
   kind: OriginalPaper
   pages: 1781-1808
   title: Variation factors in the design and analysis of replicated controlled experiments
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28109,7 +28109,7 @@
   pages: 1809-1855
   title: 'Challenges and practices in aligning requirements with verification and
     validation: a case study of six companies'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -28125,7 +28125,7 @@
   kind: OriginalPaper
   pages: 1856-1886
   title: 'SWordNet: Inferring semantically related words from software context'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: false
@@ -28145,7 +28145,7 @@
   pages: 1887-1920
   title: 'Empirical study on the maintainability of Web applications: Model-driven
     Engineering vs Code-centric'
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links:
   - is-alive: true
@@ -28165,7 +28165,7 @@
   kind: OriginalPaper
   pages: 1921-1955
   title: "Reporting experiments to satisfy professionals\u2019 information needs"
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28177,7 +28177,7 @@
   pages: 1956-1966
   title: Validating differential relationships between risk categories and project
     performance as perceived by managers
-  venue: ESE
+  venue: EMSE
   year: 2014
 - artifact-links: []
   authors:
@@ -28195,7 +28195,7 @@
   pages: 1-27
   title: Studying the relationship between logging characteristics and the code quality
     of platform software
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28210,7 +28210,7 @@
   pages: 28-81
   title: "Understanding the Influence of User Participation and Involvement on System\
     \ Success \u2013 a Systematic Mapping Study"
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: true
@@ -28233,7 +28233,7 @@
   kind: OriginalPaper
   pages: 82-109
   title: HAZOP-based identification of events in use cases
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28251,7 +28251,7 @@
   pages: 110-141
   title: A practical guide to controlled experiments of software engineering tools
     with human participants
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28269,7 +28269,7 @@
   pages: 142-175
   title: An experimental investigation comparing individual and collaborative work
     productivity when using desktop and cloud modeling tools
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28286,7 +28286,7 @@
   pages: 176-205
   title: Mining software repair models for reasoning on the search space of automated
     program fixing
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28300,7 +28300,7 @@
   kind: OriginalPaper
   pages: 206-251
   title: 'UML model refactoring: a systematic literature review'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28320,7 +28320,7 @@
   kind: OriginalPaper
   pages: 252-289
   title: Management of community contributions
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28340,7 +28340,7 @@
   pages: 294-335
   title: 'Towards improving statistical modeling of software engineering data: think
     locally, act globally!'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28360,7 +28360,7 @@
   kind: OriginalPaper
   pages: 336-373
   title: Understanding the impact of rapid releases on software quality
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28372,7 +28372,7 @@
   pages: 374-409
   title: 'Green mining: a methodology of relating software change and configuration
     to power consumption'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28387,7 +28387,7 @@
   pages: 413-441
   title: Do developers benefit from requirements traceability when evolving and maintaining
     a software system?
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: true
@@ -28410,7 +28410,7 @@
   pages: 442-478
   title: An empirical study on the importance of source code entities for requirements
     traceability
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28430,7 +28430,7 @@
   kind: OriginalPaper
   pages: 479-515
   title: Do topics make sense to managers and developers?
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28448,7 +28448,7 @@
   pages: 516-548
   title: "Modelling the \u2018hurried\u2019 bug report reading process to summarize\
     \ bug reports"
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28465,7 +28465,7 @@
   kind: OriginalPaper
   pages: 549-575
   title: Detecting and refactoring code smells in spreadsheet formulas
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28482,7 +28482,7 @@
   kind: OriginalPaper
   pages: 577-610
   title: Multi-objective ant colony optimization for requirements selection
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28497,7 +28497,7 @@
   pages: 611-639
   title: '1600 faults in 100 projects: automatically finding faults while achieving
     high coverage with EvoSuite'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28518,7 +28518,7 @@
   pages: 640-693
   title: 'Empirical evidence on the link between object-oriented measures and external
     quality attributes: a systematic literature review'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28535,7 +28535,7 @@
   kind: OriginalPaper
   pages: 694-744
   title: 'Visual GUI testing in practice: challenges, problemsand limitations'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28554,7 +28554,7 @@
   kind: OriginalPaper
   pages: 745-782
   title: Object-oriented software extensions in practice
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: true
@@ -28570,7 +28570,7 @@
   kind: OriginalPaper
   pages: 783-812
   title: Achieving scalable mutation-based generation of whole test suites
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28587,7 +28587,7 @@
   kind: OriginalPaper
   pages: 813-843
   title: Transfer learning in effort estimation
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28613,7 +28613,7 @@
   kind: OriginalPaper
   pages: 844-878
   title: An experiment on the effectiveness and efficiency of exploratory testing
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28631,7 +28631,7 @@
   pages: 879-927
   title: 'Mining system logs to learn error predictors: a case study of a telemetry
     system'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28645,7 +28645,7 @@
   kind: OriginalPaper
   pages: 928-967
   title: Fault density, fault types, and spectra-based fault localization
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28665,7 +28665,7 @@
   kind: OriginalPaper
   pages: 968-1005
   title: An elicitation instrument for operationalising GQM+Strategies (GQM+S-EI)
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28682,7 +28682,7 @@
   kind: OriginalPaper
   pages: 1006-1051
   title: Fostering effective inter-team knowledge sharing in agile software development
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28707,7 +28707,7 @@
   kind: OriginalPaper
   pages: 1052-1094
   title: Are test smells really harmful? An empirical study
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28732,7 +28732,7 @@
   kind: OriginalPaper
   pages: 1095-1125
   title: Classification model for code clones based on machine learning
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28758,14 +28758,14 @@
   pages: 1126-1158
   title: 'The impact of imperfect change rules on framework API evolution identification:
     an empirical study'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - authors: []
   doi: 10.1007/s10664-014-9318-8
   kind: OriginalPaper
   pages: 1159-1192
   title: 'Confounding parameters on program comprehension: a literature survey'
-  venue: ESE
+  venue: EMSE
   year: 2015
   artifact-links:
     - url: https://www.infosun.fim.uni-passau.de/spl/janet/confounding/index.php
@@ -28796,7 +28796,7 @@
   pages: 1198-1236
   title: Supporting and accelerating reproducible empirical research in software evolution
     and maintenance using TraceLab Component Library
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28813,7 +28813,7 @@
   kind: OriginalPaper
   pages: 1237-1274
   title: "Should I follow this fault localization tool\u2019s output?"
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28838,7 +28838,7 @@
   kind: OriginalPaper
   pages: 1275-1317
   title: 'How the Apache community upgrades dependencies: an evolutionary study'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -28861,7 +28861,7 @@
   pages: 1318-1353
   title: 'Developer initiation and social interactions in OSS: A case study of the
     Apache Software Foundation'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28881,7 +28881,7 @@
   kind: OriginalPaper
   pages: 1354-1383
   title: Automated prediction of bug report priority using multi-factor analysis
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28905,7 +28905,7 @@
   pages: 1384-1425
   title: 'On rapid releases and software testing: a case study and a semi-systematic
     literature review'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors: []
@@ -28914,7 +28914,7 @@
   pages: 1427-1455
   title: Towards a decision-making structure for selecting a research design in empirical
     software engineering
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28934,7 +28934,7 @@
   kind: OriginalPaper
   pages: 1486-1524
   title: A large study on the effect of code obfuscation on the quality of java code
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -28945,7 +28945,7 @@
   kind: OriginalPaper
   pages: 1525-1557
   title: How product owner teams scale agile methods to large distributed enterprises
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: true
@@ -28961,7 +28961,7 @@
   kind: OriginalPaper
   pages: 1558-1586
   title: Recommending reference API documentation
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: true
@@ -28989,7 +28989,7 @@
   pages: 1587-1633
   title: A Large-Scale Empirical Study of the Relationship between Build Technology
     and Build Maintenance
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -29010,7 +29010,7 @@
   pages: 1634-1665
   title: 'Case studies synthesis: a thematic, cross-case, and narrative synthesis
     worked example'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -29027,7 +29027,7 @@
   kind: OriginalPaper
   pages: 1666-1720
   title: 'Link analysis algorithms for static concept location: an empirical assessment'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -29048,7 +29048,7 @@
   pages: 1721-1761
   title: "Software requirements prioritization and selection using linguistic tools\
     \ and constraint solvers\u2014a controlled experiment"
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -29064,7 +29064,7 @@
   pages: 1762-1784
   title: 'Optimising agile development practices for the maintenance operation: nine
     heuristics'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: true
@@ -29083,7 +29083,7 @@
   kind: OriginalPaper
   pages: 1785-1830
   title: Charting the API minefield using software telemetry data
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -29094,7 +29094,7 @@
   pages: 1831-1860
   title: An empirical comparison of model-based and capture and replay approaches
     for performance testing
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -29108,7 +29108,7 @@
   kind: OriginalPaper
   pages: 1861-1897
   title: 'The kanban approach, between agility and leanness: a systematic review'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links: []
   authors:
@@ -29130,7 +29130,7 @@
   pages: 1898-1917
   title: 'Semi-automatic selection of primary studies in systematic literature reviews:
     is it reasonable?'
-  venue: ESE
+  venue: EMSE
   year: 2015
 - artifact-links:
   - is-alive: false
@@ -29147,7 +29147,7 @@
   pages: 17-42
   title: An empirical study of the textual similarity between source code and source
     code summaries
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29165,7 +29165,7 @@
   pages: 43-71
   title: Value-cognitive boosting with a support vector machine for cross-project
     defect prediction
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29188,7 +29188,7 @@
   pages: 72-103
   title: Weighing lexical information for software clustering in the context of architecture
     recovery
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -29209,7 +29209,7 @@
   kind: OriginalPaper
   pages: 104-158
   title: 'Linguistic antipatterns: what they are and how developers perceive them'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -29230,7 +29230,7 @@
   kind: OriginalPaper
   pages: 159-182
   title: "Exploring the costs of technical debt management \u2013 a case study"
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29258,7 +29258,7 @@
   kind: OriginalPaper
   pages: 183-211
   title: Empirical assessment of machine learning-based malware detectors for Android
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29284,7 +29284,7 @@
   pages: 212-259
   title: 'Does the level of detail of UML diagrams affect the maintainability of source
     code?: a family of experiments'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29302,7 +29302,7 @@
   pages: 260-299
   title: 'Continuously mining distributed version control systems: an empirical study
     of how Linux uses Git'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29321,7 +29321,7 @@
   kind: OriginalPaper
   pages: 303-336
   title: The impact of tangled code changes on defect prediction models
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29338,7 +29338,7 @@
   kind: OriginalPaper
   pages: 337-367
   title: Improving bug management using correlations in crash reports
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29356,7 +29356,7 @@
   pages: 368-410
   title: A contextual approach towards more accurate duplicate bug report detection
     and ranking
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29386,7 +29386,7 @@
   pages: 449-482
   title: 'Preprocessor-based variability in open-source and industrial software systems:
     An empirical study'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -29417,7 +29417,7 @@
   pages: 483-516
   title: Understanding and addressing exhibitionism in Java empirical research about
     method accessibility
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29440,7 +29440,7 @@
   pages: 517-564
   title: 'Development nature matters: An empirical study of code clones in JavaScript
     applications'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29456,7 +29456,7 @@
   kind: OriginalPaper
   pages: 565-604
   title: Automatic identifier inconsistency detection using code dictionary
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29473,7 +29473,7 @@
   kind: OriginalPaper
   pages: 605-641
   title: Studying high impact fix-inducing changes
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29491,7 +29491,7 @@
   pages: 642-683
   title: 'From Aristotle to Ringelmann: a large-scale analysis of team productivity
     and coordination in Open Source Software projects'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29508,7 +29508,7 @@
   kind: OriginalPaper
   pages: 684-723
   title: 'Open innovation in software engineering: a systematic mapping study'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29525,7 +29525,7 @@
   kind: OriginalPaper
   pages: 724-747
   title: A field study of how developers locate features in source code
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29542,7 +29542,7 @@
   kind: OriginalPaper
   pages: 753-777
   title: On the detection of custom memory allocators in C binaries
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29559,7 +29559,7 @@
   kind: OriginalPaper
   pages: 778-810
   title: Scalable data structure detection and classification for C/C++ binaries
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29580,7 +29580,7 @@
   kind: OriginalPaper
   pages: 811-853
   title: Inferring extended finite state machine models from software executions
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29609,7 +29609,7 @@
   kind: OriginalPaper
   pages: 854-895
   title: Mining architectural violations from version history
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29635,7 +29635,7 @@
   pages: 896-931
   title: Evaluating the impact of design pattern and anti-pattern dependencies on
     changes and faults
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -29660,7 +29660,7 @@
   pages: 932-959
   title: Investigating technical and non-technical factors influencing modern code
     review
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -29683,7 +29683,7 @@
   pages: 960-1001
   title: An empirical study of integration activities in distributions of open source
     software
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29704,7 +29704,7 @@
   pages: 1002-1034
   title: Assessing the impact of real-time machine translation on multilingual meetings
     in global software projects
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29725,7 +29725,7 @@
   pages: 1035-1066
   title: An experiment on the impact of transparency on the effectiveness of requirements
     documents
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29746,7 +29746,7 @@
   pages: 1067-1106
   title: Analyzing and automatically labelling the types of user issues that are raised
     in mobile app reviews
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29763,7 +29763,7 @@
   kind: OriginalPaper
   pages: 1107-1142
   title: An empirical study of software release notes
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29786,7 +29786,7 @@
   kind: OriginalPaper
   pages: 1143-1191
   title: Comparing and experimenting machine learning techniques for code smell detection
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29801,7 +29801,7 @@
   pages: 1192-1223
   title: What are mobile developers asking about? A large scale study using stack
     overflow
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29826,7 +29826,7 @@
   kind: OriginalPaper
   pages: 1224-1271
   title: Assessing refactorings for usability in e-commerce applications
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29844,7 +29844,7 @@
   pages: 1272-1301
   title: An empirical examination of the prevalence of inhibitors to the parallelizability
     of open source software systems
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29859,7 +29859,7 @@
   pages: 1302-1345
   title: 'Experimentation with dynamic simulation models in software engineering:
     planning and reporting guidelines'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29877,7 +29877,7 @@
   pages: 1346-1370
   title: 'Fresh apps: an empirical study of frequently-updated mobile apps in the
     Google play store'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29901,7 +29901,7 @@
   kind: OriginalPaper
   pages: 1371-1396
   title: What Java developers know about compatibility, and why this matters
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29930,7 +29930,7 @@
   kind: OriginalPaper
   pages: 1397-1436
   title: 'Perspectives on refactoring planning and practice: an empirical study'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29950,7 +29950,7 @@
   pages: 1437-1475
   title: 'Using text clustering to predict defect resolution time: a conceptual replication
     and an evaluation of prediction accuracy'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -29972,7 +29972,7 @@
   pages: 1476-1508
   title: 'Code clones and developer behavior: results of two surveys of the clone
     research community'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -29991,7 +29991,7 @@
   pages: 1509-1532
   title: 'Archetypal personalities of software engineers and their work preferences:
     a new perspective for empirical studies'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30020,7 +30020,7 @@
   pages: 1533-1578
   title: 'Automated bug assignment: Ensemble-based machine learning in large scale
     industrial contexts'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30041,7 +30041,7 @@
   pages: 1623-1669
   title: 'Performance variability in software product lines: proposing theories from
     a case study'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30064,7 +30064,7 @@
   pages: 1670-1705
   title: Quantifying structural attributes of system decompositions in 28 feature-oriented
     software product lines
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -30087,7 +30087,7 @@
   pages: 1706-1743
   title: The effects of visualization and interaction techniques on feature model
     configuration
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -30121,7 +30121,7 @@
   kind: OriginalPaper
   pages: 1744-1793
   title: Coevolution of variability models and related software artifacts
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30148,7 +30148,7 @@
   pages: 1794-1841
   title: 'Breathing ontological knowledge into feature model synthesis: an empirical
     study'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30165,7 +30165,7 @@
   kind: OriginalPaper
   pages: 1843-1919
   title: A survey on the use of topic models when mining software repositories
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30181,7 +30181,7 @@
   kind: OriginalPaper
   pages: 1920-1959
   title: 'Game of detections: how are security vulnerabilities discovered in the wild?'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30201,7 +30201,7 @@
   kind: OriginalPaper
   pages: 1960-1989
   title: Studying the needed effort for identifying duplicate issues
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30221,7 +30221,7 @@
   kind: OriginalPaper
   pages: 1990-2032
   title: 'Change-based test selection: an empirical evaluation'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30249,7 +30249,7 @@
   kind: OriginalPaper
   pages: 2035-2071
   title: An in-depth study of the promises and perils of mining GitHub
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30277,7 +30277,7 @@
   kind: OriginalPaper
   pages: 2072-2106
   title: Studying just-in-time defect prediction using cross-project models
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -30300,7 +30300,7 @@
   pages: 2107-2145
   title: Towards building a universal defect prediction model with rank transformed
     predictors
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30324,7 +30324,7 @@
   pages: 2146-2189
   title: An empirical study of the impact of modern code review practices on software
     quality
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30349,7 +30349,7 @@
   kind: OriginalPaper
   pages: 2190-2231
   title: Prompter
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30363,7 +30363,7 @@
   kind: OriginalPaper
   pages: 2233-2267
   title: Cheap talk, cooperation, and trust in global software engineering
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30380,7 +30380,7 @@
   kind: OriginalPaper
   pages: 2268-2297
   title: An automatic method for assessing the versions affected by a vulnerability
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30400,7 +30400,7 @@
   kind: OriginalPaper
   pages: 2298-2323
   title: On the unreliability of bug severity data
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30421,7 +30421,7 @@
   pages: 2324-2365
   title: Large-scale information retrieval in software engineering - an experience
     report from industrial application
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: false
@@ -30447,7 +30447,7 @@
   pages: 2366-2412
   title: An exploratory study of api changes and usages based on apache and eclipse
     ecosystems
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30464,7 +30464,7 @@
   kind: OriginalPaper
   pages: 2413-2455
   title: An automated software reliability prediction system for safety critical software
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30487,7 +30487,7 @@
   pages: 2459-2502
   title: 'Improving the performance of OCL constraint solving with novel heuristics
     for logical operations: a search-based approach'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links: []
   authors:
@@ -30511,7 +30511,7 @@
   pages: 2503-2545
   title: 'On the use of many quality attributes for software refactoring: a many-objective
     search-based software engineering approach'
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30531,7 +30531,7 @@
   pages: 2546-2600
   title: A comparative study of many-objective evolutionary algorithms for the discovery
     of software architectures
-  venue: ESE
+  venue: EMSE
   year: 2016
 - artifact-links:
   - is-alive: true
@@ -30554,7 +30554,7 @@
   pages: 6-56
   title: 'FOREPOST: finding performance problems automatically with feedback-directed
     learning software testing'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30566,7 +30566,7 @@
   pages: 57-79
   title: 'Defect propagation at the project-level: results and a post-hoc analysis
     on inspection efficiency'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30583,7 +30583,7 @@
   pages: 80-133
   title: The impact of domain knowledge on the effectiveness of requirements engineering
     activities
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30609,7 +30609,7 @@
   kind: OriginalPaper
   pages: 134-174
   title: Extracting and analyzing time-series HCI data from screen-captured task videos
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30630,7 +30630,7 @@
   kind: OriginalPaper
   pages: 175-234
   title: 'Zen-ReqOptimizer: a search-based approach for requirements assignment optimization'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -30655,7 +30655,7 @@
   kind: OriginalPaper
   pages: 235-258
   title: "Raters\u2019 reliability in clone benchmarks construction"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30674,7 +30674,7 @@
   kind: OriginalPaper
   pages: 259-291
   title: Learning to rank code examples for code search engines
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30697,7 +30697,7 @@
   kind: OriginalPaper
   pages: 292-329
   title: An experimental search-based approach to cohesion metric evaluation
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -30714,7 +30714,7 @@
   pages: 330-374
   title: "Characterizing logging practices in Java-based open source software projects\
     \ \u2013 a replication study in Apache Software Foundation"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30734,7 +30734,7 @@
   pages: 375-406
   title: 'The structure and dynamics of knowledge network in domain-specific Q&A sites:
     a case study of stack overflow'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30751,7 +30751,7 @@
   pages: 407-435
   title: Stochastic actor-oriented modeling for studying homophily and social influence
     in OSS projects
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30770,7 +30770,7 @@
   kind: OriginalPaper
   pages: 436-473
   title: An empirical study of supplementary patches in open source projects
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30791,7 +30791,7 @@
   pages: 474-504
   title: A stability assessment of solution adaptation techniques for analogy-based
     software effort estimation
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30808,7 +30808,7 @@
   kind: OriginalPaper
   pages: 505-546
   title: An empirical study of emergency updates for top android mobile apps
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30836,7 +30836,7 @@
   kind: OriginalPaper
   pages: 547-578
   title: Why and how developers fork what from whom in GitHub
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30868,7 +30868,7 @@
   kind: OriginalPaper
   pages: 579-630
   title: Robust Statistical Methods for Empirical Software Engineering
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30887,7 +30887,7 @@
   kind: OriginalPaper
   pages: 631-669
   title: Do Programmers do Change Impact Analysis in Debugging?
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30914,7 +30914,7 @@
   kind: OriginalPaper
   pages: 670-715
   title: Search-based detection of model level changes
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30930,7 +30930,7 @@
   pages: 716-767
   title: 'Investigating the use of moving windows to improve software effort prediction:
     a replicated study'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30953,7 +30953,7 @@
   kind: OriginalPaper
   pages: 768-817
   title: Review participation in modern code review
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -30964,7 +30964,7 @@
   kind: OriginalPaper
   pages: 818-847
   title: Productivity paradoxes revisited
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -30987,7 +30987,7 @@
   kind: OriginalPaper
   pages: 852-893
   title: A detailed investigation of the effectiveness of whole test suite generation
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31011,7 +31011,7 @@
   pages: 894-927
   title: A robust multi-objective approach to balance severity and importance of refactoring
     opportunities
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31031,7 +31031,7 @@
   pages: 928-961
   title: Generating valid grammar-based test inputs by means of genetic programming
     and annotated grammars
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31051,7 +31051,7 @@
   pages: 967-995
   title: Achieving traceability in large scale continuous integration and delivery
     deployment, usage and validation of the eiffel framework
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -31073,7 +31073,7 @@
   kind: OriginalPaper
   pages: 996-1027
   title: Estimating the number of remaining links in traceability recovery
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -31101,7 +31101,7 @@
   kind: OriginalPaper
   pages: 1028-1062
   title: Automated training-set creation for software architecture traceability problem
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -31123,7 +31123,7 @@
   kind: OriginalPaper
   pages: 1063-1102
   title: Eye movements in software traceability link recovery
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31140,7 +31140,7 @@
   kind: OriginalPaper
   pages: 1103-1142
   title: Tackling the term-mismatch problem in automated trace retrieval
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31168,7 +31168,7 @@
   kind: OriginalPaper
   pages: 1146-1193
   title: A large-scale study of architectural evolution in open-source software systems
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31191,7 +31191,7 @@
   kind: OriginalPaper
   pages: 1194-1222
   title: Analysis of license inconsistency in large collections of open source projects
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -31213,7 +31213,7 @@
   kind: OriginalPaper
   pages: 1223-1263
   title: Predicting the delay of issues with due dates in software projects
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31239,7 +31239,7 @@
   kind: OriginalPaper
   pages: 1264-1304
   title: Exception handling bug hazards in Android
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31264,7 +31264,7 @@
   kind: OriginalPaper
   pages: 1305-1347
   title: Do bugs foreshadow vulnerabilities? An in-depth study of the chromium project
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31283,7 +31283,7 @@
   pages: 1348-1371
   title: "fine-GRAPE: fine-grained APi usage extractor \u2013 an approach and dataset\
     \ to investigate API usage"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31298,7 +31298,7 @@
   kind: OriginalPaper
   pages: 1372-1404
   title: A repository of Unix history and evolution
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31318,7 +31318,7 @@
   kind: OriginalPaper
   pages: 1405-1437
   title: 'The Debsources Dataset: two decades of free and open source software'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31333,7 +31333,7 @@
   kind: OriginalPaper
   pages: 1440-1477
   title: 'How programmers read regular code: a controlled experiment using eye tracking'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31354,7 +31354,7 @@
   kind: OriginalPaper
   pages: 1478-1507
   title: Documenting and sharing software knowledge using screencasts
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31376,7 +31376,7 @@
   kind: OriginalPaper
   pages: 1508-1536
   title: The last line effect explained
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31404,7 +31404,7 @@
   kind: OriginalPaper
   pages: 1537-1577
   title: 'License usage and changes: a large-scale study on gitHub'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31421,7 +31421,7 @@
   kind: OriginalPaper
   pages: 1684-1716
   title: Which log level should developers choose for a new logging statement?
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31441,7 +31441,7 @@
   pages: 1717-1762
   title: Case study on which relations to use for clustering-based software architecture
     recovery
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31468,7 +31468,7 @@
   pages: 1763-1794
   title: Multi-objective reverse engineering of variability-safe feature models based
     on code dependencies of system variants
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31488,7 +31488,7 @@
   pages: 1795-1830
   title: Tracing distributed collaborative development in apache software foundation
     projects
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31512,7 +31512,7 @@
   kind: OriginalPaper
   pages: 1831-1865
   title: Towards just-in-time suggestions for log changes
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -31534,7 +31534,7 @@
   kind: OriginalPaper
   pages: 1866-1902
   title: Global vs. local models for cross-project defect prediction
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31555,7 +31555,7 @@
   pages: 1903-1935
   title: Are delayed issues harder to resolve? Revisiting cost-to-fix of defects throughout
     the lifecycle
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31581,7 +31581,7 @@
   pages: 1936-1964
   title: 'Automatic repair of real bugs in java: a large-scale experiment on the defects4j
     dataset'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31597,7 +31597,7 @@
   kind: OriginalPaper
   pages: 1965-2000
   title: Semantic topic models for source code analysis
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31619,7 +31619,7 @@
   pages: 2001-2049
   title: Group versus individual use of power-only EPMcreate as a creativity enhancement
     technique for requirements elicitation
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31640,7 +31640,7 @@
   kind: OriginalPaper
   pages: 2050-2094
   title: 'Evolutionary trends of developer coordination: a network approach'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31657,7 +31657,7 @@
   kind: OriginalPaper
   pages: 2095-2126
   title: Studying the urgent updates of popular games on the Steam platform
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31689,7 +31689,7 @@
   pages: 2127-2178
   title: 'Identifying the implied: Findings from three differentiated replications
     on the use of security requirements templates'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31707,7 +31707,7 @@
   pages: 2179-2205
   title: "An initial analysis of software engineers\u2019 attitudes towards organizational\
     \ change"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31722,7 +31722,7 @@
   pages: 2206-2236
   title: 'Effectiveness and efficiency of a domain-specific language for high-performance
     marine ecosystem simulation: a controlled experiment'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -31742,7 +31742,7 @@
   pages: 2237-2279
   title: Will this localization tool be effective for this bug? Mitigating the impact
     of unreliability of information retrieval based bug localization tools
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31822,7 +31822,7 @@
   kind: OriginalPaper
   pages: 2298-2338
   title: Naming the pain in requirements engineering
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31840,7 +31840,7 @@
   pages: 2339-2372
   title: 'User satisfaction and system success: an empirical exploration of user involvement
     in software development'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31863,7 +31863,7 @@
   pages: 2373-2408
   title: "\u201CFailures\u201D to be celebrated: an analysis of major pivots of software\
     \ startups"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -31881,7 +31881,7 @@
   pages: 2409-2452
   title: "Recurring opinions or productive improvements\u2014what agile teams actually\
     \ discuss in retrospectives"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31917,7 +31917,7 @@
   pages: 2457-2542
   title: 'Empirical evaluation of the effects of experience on code quality and programmer
     productivity: an exploratory study'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31941,7 +31941,7 @@
   pages: 2543-2584
   title: On negative results when using sentiment analysis tools for software engineering
     research
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31957,7 +31957,7 @@
   kind: OriginalPaper
   pages: 2585-2611
   title: On the correlation between size and metric validity
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -31979,7 +31979,7 @@
   kind: OriginalPaper
   pages: 2612-2657
   title: Fragile base-class problem, problem?
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32002,7 +32002,7 @@
   kind: OriginalPaper
   pages: 2658-2683
   title: Negative results for software effort estimation
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32026,7 +32026,7 @@
   pages: 2684-2717
   title: "To log, or not to log: using heuristics to identify mandatory log events\
     \ \u2013 a controlled experiment"
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32047,7 +32047,7 @@
   kind: OriginalPaper
   pages: 2719-2762
   title: 'Requirements reuse and requirement patterns: a state of the practice survey'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32090,7 +32090,7 @@
   pages: 2763-2805
   title: An industry experiment on the effects of test-driven development on external
     quality and productivity
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32104,7 +32104,7 @@
   kind: OriginalPaper
   pages: 2806-2851
   title: An empirical study for software change prediction using imbalanced data
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -32124,7 +32124,7 @@
   pages: 2852-2891
   title: 'On the pragmatic design of literature studies in software engineering: an
     experience-based guideline'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32148,7 +32148,7 @@
   pages: 2892-2936
   title: 'Managing the requirements flow from strategy to release in large-scale agile
     development: a case study at Ericsson'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32163,7 +32163,7 @@
   pages: 2937-2971
   title: 'On the long-term use of visual gui testing in industrial practice: a case
     study'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32188,7 +32188,7 @@
   pages: 2972-3016
   title: 'Reengineering legacy applications into software product lines: a systematic
     mapping'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32214,7 +32214,7 @@
   pages: 3017-3056
   title: 'Model comprehension for security risk assessment: an empirical comparison
     of tabular vs. graphical representations'
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32234,7 +32234,7 @@
   pages: 3057-3087
   title: Evaluating code complexity triggers, use of complexity measures and the influence
     of code complexity on maintenance time
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32261,7 +32261,7 @@
   pages: 3088-3116
   title: A study of the relation of mobile device attributes with the user-perceived
     quality of Android apps
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32286,7 +32286,7 @@
   kind: OriginalPaper
   pages: 3117-3148
   title: An empirical study of unspecified dependencies in make-based build systems
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32313,7 +32313,7 @@
   kind: OriginalPaper
   pages: 3149-3185
   title: What do developers search for on the web?
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: false
@@ -32332,7 +32332,7 @@
   kind: OriginalPaper
   pages: 3186-3218
   title: Data Transformation in Cross-project Defect Prediction
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links:
   - is-alive: true
@@ -32360,7 +32360,7 @@
   kind: OriginalPaper
   pages: 3219-3253
   title: Curating GitHub for engineered software projects
-  venue: ESE
+  venue: EMSE
   year: 2017
 - artifact-links: []
   authors:
@@ -32384,7 +32384,7 @@
   pages: 1-51
   title: Genetic Algorithm-based Test Generation for Software Product Line with the
     Integration of Fault Localization Techniques
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32407,7 +32407,7 @@
   kind: OriginalPaper
   pages: 52-86
   title: Experiences and challenges in building a data intensive system for data migration
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32434,7 +32434,7 @@
   pages: 87-164
   title: 'Search and similarity based selection of use case scenarios: An empirical
     study'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32448,7 +32448,7 @@
   kind: OriginalPaper
   pages: 165-185
   title: Impact of incorrect and new requirements on waterfall software project outcomes
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32471,7 +32471,7 @@
   kind: OriginalPaper
   pages: 186-223
   title: 'Open innovation using open source tools: a case study at Sony Mobile'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32498,7 +32498,7 @@
   kind: OriginalPaper
   pages: 224-258
   title: 'Architecture consistency: State of the practice, challenges and requirements'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32527,7 +32527,7 @@
   kind: OriginalPaper
   pages: 259-289
   title: "Privacy by designers: software developers\u2019 privacy mindset"
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32550,7 +32550,7 @@
   kind: OriginalPaper
   pages: 290-333
   title: Examining the stability of logging statements
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32576,7 +32576,7 @@
   kind: OriginalPaper
   pages: 334-383
   title: An empirical study of the integration time of fixed issues
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32602,7 +32602,7 @@
   kind: OriginalPaper
   pages: 384-417
   title: Do developers update their library dependencies?
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32629,7 +32629,7 @@
   pages: 418-451
   title: Identifying self-admitted technical debt in open source projects using text
     mining
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32660,7 +32660,7 @@
   pages: 452-489
   title: Empirical software engineering experts on the use of students and professionals
     in experiments
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32682,7 +32682,7 @@
   pages: 490-520
   title: 'Exploring software development at the very large-scale: a revelatory case
     study and research agenda for agile method adaptation'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32693,7 +32693,7 @@
   pages: 521-564
   title: An exploratory qualitative and quantitative analysis of emotions in issue
     report comments of open source systems
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32708,7 +32708,7 @@
   pages: 570-644
   title: Toward the development of a conventional time series based web error forecasting
     framework
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32734,7 +32734,7 @@
   pages: 645-692
   title: Noise in Mylyn interaction traces and its impact on developers and recommendation
     systems
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32754,7 +32754,7 @@
   kind: OriginalPaper
   pages: 693-770
   title: Is cloned code really stable?
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32771,7 +32771,7 @@
   kind: OriginalPaper
   pages: 771-799
   title: An empirical study of early access games on the Steam platform
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32794,7 +32794,7 @@
   pages: 800-832
   title: 'EnTagRec ++: An enhanced tag recommendation system for software information
     sites'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32817,7 +32817,7 @@
   kind: OriginalPaper
   pages: 835-904
   title: The impact of rapid release cycles on the integration delay of fixed issues
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: false
@@ -32839,7 +32839,7 @@
   pages: 905-952
   title: 'FEVER: An approach to analyze feature-oriented changes and artefact co-evolution
     in highly configurable systems'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32869,7 +32869,7 @@
   pages: 953-986
   title: 'How the R community creates and curates knowledge: an extended study of
     stack overflow and mailing lists'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32892,7 +32892,7 @@
   kind: OriginalPaper
   pages: 987-1035
   title: Aggregating Association Rules to Improve Change Recommendation
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32931,7 +32931,7 @@
   pages: 1036-1083
   title: Addressing problems with replicability and validity of repository mining
     studies through a smart data platform
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: false
@@ -32958,7 +32958,7 @@
   kind: OriginalPaper
   pages: 1084-1122
   title: Domain-specific cross-language relevant question retrieval
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -32977,7 +32977,7 @@
   kind: OriginalPaper
   pages: 1123-1152
   title: "Data sets describing the circle of life in Ruby hosting, 2003\u20132016"
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -32989,7 +32989,7 @@
   pages: 1153-1187
   title: How does developer interaction relate to software quality? an examination
     of product development data
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33018,7 +33018,7 @@
   pages: 1188-1221
   title: 'On the diffuseness and the impact on maintainability of code smells: a large
     scale empirical investigation'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33041,7 +33041,7 @@
   pages: 1222-1274
   title: A multi-view context-aware approach to Android malware detection and malicious
     code localization
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33062,7 +33062,7 @@
   pages: 1275-1312
   title: Studying the dialogue between users and developers of free apps in the Google
     Play Store
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33087,7 +33087,7 @@
   pages: 1313-1351
   title: Inference of development activities from interaction with uninstrumented
     applications
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33111,7 +33111,7 @@
   kind: OriginalPaper
   pages: 1352-1382
   title: Sentiment Polarity Detection for Software Development
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33134,7 +33134,7 @@
   kind: OriginalPaper
   pages: 1383-1421
   title: Are vulnerabilities discovered and resolved like other defects?
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: false
@@ -33157,7 +33157,7 @@
   pages: 1422-1456
   title: An exploratory study on assessing the energy impact of logging on Android
     applications
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: false
@@ -33179,7 +33179,7 @@
   pages: 1457-1489
   title: 'General methods for software architecture recovery: a potential approach
     and its evaluation'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33199,7 +33199,7 @@
   pages: 1490-1518
   title: Empirical study on the discrepancy between performance testing results from
     virtual and physical environments
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33227,7 +33227,7 @@
   kind: OriginalPaper
   pages: 1519-1551
   title: Analyzing a decade of Linux system calls
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33246,7 +33246,7 @@
   kind: OriginalPaper
   pages: 1552-1593
   title: Understanding the factors for fast answers in technical Q&A websites
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33266,7 +33266,7 @@
   pages: 1594-1663
   title: 'Challenges and pitfalls on surveying evidence in the software engineering
     technical literature: an exploratory study with novices'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33288,7 +33288,7 @@
   kind: OriginalPaper
   pages: 1664-1703
   title: Reducing user input requests to improve IT support ticket resolution process
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33308,7 +33308,7 @@
   pages: 1704-1742
   title: Are tweets useful in the bug fixing process? An empirical study on Firefox
     and Chrome
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33337,7 +33337,7 @@
   pages: 1743-1790
   title: 'On the impact of state-based model-driven development on maintainability:
     a family of experiments using UniMod'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: false
@@ -33357,7 +33357,7 @@
   pages: 1791-1825
   title: An empirical study on the interplay between semantic coupling and co-change
     of software classes
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33394,7 +33394,7 @@
   kind: OriginalPaper
   pages: 1826-1867
   title: Data-efficient performance learning for configurable systems
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33408,7 +33408,7 @@
   pages: 1871-1894
   title: 'Persistent code contribution: a ranking algorithm for code contribution
     in crowdsourced software'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33437,7 +33437,7 @@
   kind: OriginalPaper
   pages: 1895-1930
   title: 'Older adults and hackathons: a qualitative study'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33451,7 +33451,7 @@
   kind: OriginalPaper
   pages: 1982-2017
   title: Effect sizes and their variance for AB/BA crossover design studies
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33464,7 +33464,7 @@
   kind: OriginalPaper
   pages: 2018-2050
   title: An empirical study on the impact of AspectJ on software evolvability
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33484,7 +33484,7 @@
   pages: 2051-2085
   title: Understanding semi-structured merge conflict characteristics in open-source
     Java projects
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33510,7 +33510,7 @@
   pages: 2086-2119
   title: 'Correctness attraction: a study of stability of software behavior under
     runtime perturbation'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33535,7 +33535,7 @@
   kind: OriginalPaper
   pages: 2121-2157
   title: Code smells for Model-View-Controller architectures
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33553,7 +33553,7 @@
   pages: 2158-2197
   title: On the reaction to deprecation of clients of 4 + 1 popular Java APIs and
     the JDK
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33570,7 +33570,7 @@
   kind: OriginalPaper
   pages: 2198-2231
   title: Evolving software trace links between requirements and source code
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33589,7 +33589,7 @@
   kind: OriginalPaper
   pages: 2232-2278
   title: 'Cloned and non-cloned Java methods: a comparative study'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33616,7 +33616,7 @@
   kind: OriginalPaper
   pages: 2279-2322
   title: Fusing multi-abstraction vector space models for concern localization
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33638,7 +33638,7 @@
   kind: OriginalPaper
   pages: 2323-2358
   title: 'ProMeTA: a taxonomy for program metamodels in program reverse engineering'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33661,7 +33661,7 @@
   pages: 2362-2397
   title: What are the effects of history length and age on mining software change
     impact?
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33682,7 +33682,7 @@
   kind: OriginalPaper
   pages: 2398-2425
   title: The need for software specific natural language techniques
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33713,7 +33713,7 @@
   pages: 2426-2463
   title: How effective are mutation testing tools? An empirical analysis of Java mutation
     testing tools with manual analysis and real faults
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33732,7 +33732,7 @@
   kind: OriginalPaper
   pages: 2464-2519
   title: A comparison of code similarity analysers
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33746,7 +33746,7 @@
   kind: OriginalPaper
   pages: 2521-2549
   title: Towards reusing hints from past fixes
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33766,7 +33766,7 @@
   kind: OriginalPaper
   pages: 2550-2596
   title: 'Large-scale agile transformation at Ericsson: a case study'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33786,7 +33786,7 @@
   pages: 2597-2621
   title: Revisiting the performance of automated approaches for the retrieval of duplicate
     reports in issue tracking systems that perform just-in-time duplicate retrieval
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33820,7 +33820,7 @@
   pages: 2622-2654
   title: Augmenting and structuring user queries to support efficient free-form code
     search
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33842,7 +33842,7 @@
   kind: OriginalPaper
   pages: 2655-2694
   title: Studying software logging using topic models
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33872,7 +33872,7 @@
   pages: 2695-2733
   title: Do software models based on the UML aid in source-code comprehensibility?
     Aggregating evidence from 12 controlled experiments
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33897,7 +33897,7 @@
   pages: 2734-2763
   title: 'Program comprehension of domain-specific and general-purpose languages:
     replication of a family of experiments using integrated development environments'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -33914,7 +33914,7 @@
   kind: OriginalPaper
   pages: 2764-2794
   title: App store mining is not enough for app improvement
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33933,7 +33933,7 @@
   kind: OriginalPaper
   pages: 2795-2828
   title: Does syntax highlighting help programming novices?
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33958,7 +33958,7 @@
   kind: OriginalPaper
   pages: 2829-2864
   title: Getting the most from map data structures in Android
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -33980,7 +33980,7 @@
   kind: OriginalPaper
   pages: 2866-2900
   title: 'ChangeLocator: locate crash-inducing changes based on crash reports'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34002,7 +34002,7 @@
   kind: OriginalPaper
   pages: 2901-2947
   title: Do automated program repair techniques repair hard and important bugs?
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34025,7 +34025,7 @@
   kind: OriginalPaper
   pages: 2948-2979
   title: A correlation study between automated program repair and test-suite metrics
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34046,7 +34046,7 @@
   pages: 2980-3006
   title: Improved representation and genetic operators for linear genetic programming
     for automated program repair
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34068,7 +34068,7 @@
   kind: OriginalPaper
   pages: 3007-3033
   title: Overfitting in semantics-based automated program repair
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34082,7 +34082,7 @@
   kind: OriginalPaper
   pages: 3034-3071
   title: Pinpointing and repairing performance bottlenecks in concurrent programs
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34114,7 +34114,7 @@
   pages: 3073-3128
   title: "System requirements-OSS components: matching and mismatch resolution practices\
     \ \u2013 an empirical study"
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34137,7 +34137,7 @@
   kind: OriginalPaper
   pages: 3129-3160
   title: 'APIReal: an API recognition and linking approach for online developer forums'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34156,7 +34156,7 @@
   kind: OriginalPaper
   pages: 3161-3186
   title: Finding better active learners for faster literature reviews
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34182,7 +34182,7 @@
   pages: 3187-3220
   title: 'On the correctness of electronic documents: studying, finding, and localizing
     inconsistency bugs in PDF readers and files'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34204,7 +34204,7 @@
   kind: OriginalPaper
   pages: 3221-3247
   title: On the challenges of open-sourcing proprietary software projects
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34224,7 +34224,7 @@
   kind: OriginalPaper
   pages: 3248-3280
   title: Studying and detecting log-related issues
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34242,7 +34242,7 @@
   pages: 3281-3345
   title: An industrial case study on the use of UML in software maintenance and its
     perceived benefits and hurdles
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34262,7 +34262,7 @@
   kind: OriginalPaper
   pages: 3346-3393
   title: Early prediction of merged code changes to prioritize reviewing tasks
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34282,7 +34282,7 @@
   pages: 3442-3475
   title: Studying the consistency of star ratings and the complaints in 1 & 2-star
     user reviews for top free cross-platform Android and iOS apps
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34307,7 +34307,7 @@
   kind: OriginalPaper
   pages: 3476-3502
   title: An empirical study of Android Wear user complaints
-  venue: ESE
+  venue: EMSE
   year: 2018
 - authors:
   - affiliations:
@@ -34323,7 +34323,7 @@
   kind: OriginalPaper
   pages: 3503-3534
   title: Factors and actors leading to the adoption of a JavaScript framework
-  venue: ESE
+  venue: EMSE
   year: 2018
   artifact-links: []
 - artifact-links: []
@@ -34345,7 +34345,7 @@
   pages: 3535-3577
   title: Comparison of release engineering practices in a large mature company and
     a startup
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34360,7 +34360,7 @@
   pages: 3578-3625
   title: Supporting the analyzability of architectural component models - empirical
     findings and tool support
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34384,7 +34384,7 @@
   pages: 3630-3683
   title: Semi-automatic rule-based domain terminology and software feature-relevant
     information extraction from natural language user manuals
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34416,7 +34416,7 @@
   pages: 3684-3733
   title: 'Detecting requirements defects with NLP patterns: an industrial experience
     in the railway domain'
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34432,7 +34432,7 @@
   kind: OriginalPaper
   pages: 3734-3767
   title: Using frame semantics for classifying and summarizing application store reviews
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links:
   - is-alive: true
@@ -34457,7 +34457,7 @@
   kind: OriginalPaper
   pages: 3768-3800
   title: Using human error information for error prevention
-  venue: ESE
+  venue: EMSE
   year: 2018
 - artifact-links: []
   authors:
@@ -34481,5 +34481,5 @@
   kind: Original Article
   pages: 1931-1958
   title: Analyzing the effects of test driven development in GitHub
-  venue: ESE
+  venue: EMSE
   year: 2018
