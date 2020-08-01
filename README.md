@@ -21,3 +21,15 @@ email any of the investigators listed above.
 
 
 ## Contents
+
+Below is a description of the contents of this repository:
+
+* `survey-questionnaire.pdf`: outlines the questionnaire that was given to
+  participants and describes the branching logic that was used to target
+  specific subpopulations (e.g., past AEC members).
+* `recruitment-email.pdf`: provides the recruitment email that was sent to 744
+  validated participants, all of whom had published at least one technical-track
+  paper at ICSE, FSE, ASE, or EMSE in 2018.
+* `consent-form.pdf`: provides the form that was used by participants to
+  give their consent for the investigators to use their responses as part of the
+  study.
