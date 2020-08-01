@@ -1,8 +1,8 @@
-# Replication Package: Understanding and Improving Artefact Sharing in Software Engineering Research
+# Replication Package: Understanding and Improving Artifact Sharing in Software Engineering Research
 
 This repository provides the associated publication analysis dataset and survey instrument
 for the research paper,
-"Understanding and Improving Artefact Sharing in Software Engineering Research",
+"Understanding and Improving Artifact Sharing in Software Engineering Research",
 submitted to [Empirical Software Engineering](https://www.springer.com/journal/10664).
 An unrefereed preprint for the paper will be uploaded to arXiv.
 
@@ -72,9 +72,9 @@ Each paper is described as an object with the following fields:
 * `year`: the year in which the paper was published.
 * `doi`: the DOI (digital object identifier) for the paper.
 * `artifact-links`: a list of the artifacts included in the paper that
-  are associated with that paper (i.e., we do not count artefacts produced
+  are associated with that paper (i.e., we do not count artifacts produced
   by another author/study). Each link is described by its `url`, a
-  boolean flag indicating whether or not the artefact was accessible upon
+  boolean flag indicating whether or not the artifact was accessible upon
   inspection `is-alive`, and, in the case that the URL redirects to another,
   `redirects-to` gives the destination URL.
 
