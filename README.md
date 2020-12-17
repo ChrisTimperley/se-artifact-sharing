@@ -4,7 +4,7 @@ This repository provides the associated publication analysis dataset and survey 
 for the research paper,
 "Understanding and Improving Artifact Sharing in Software Engineering Research",
 submitted to [Empirical Software Engineering](https://www.springer.com/journal/10664).
-An unrefereed preprint for the paper will be uploaded to arXiv.
+An unrefereed preprint for the paper is available on arXiv: https://arxiv.org/abs/2008.01046.
 
 The study was designed, conducted, and reported by the following investigators:
 
@@ -14,7 +14,7 @@ The study was designed, conducted, and reported by the following investigators:
 * [Michael Hilton](http://www.cs.cmu.edu/~mhilton) (Carnegie Mellon University)
 
 If you have any questions about the research or this replication package, you should
-email any of the investigators listed above.
+contact Christopher or Michael.
 
 
 ## Citation Guidelines
@@ -23,7 +23,14 @@ If this replication package or the results of the associated study has informed
 your research, consider citing our paper as follows:
 
 ```
-(I will add this after we upload to arXiv.)
+@misc{understanding-artifact-sharing,
+  title={Understanding and Improving Artifact Sharing in Software Engineering Research}, 
+  author={Christopher S. Timperley and Lauren Herckis and Claire {Le Goues} and Michael Hilton},
+  year={2020},
+  eprint={2008.01046},
+  archivePrefix={arXiv},
+  primaryClass={cs.SE}
+}
 ```
 
 
@@ -31,8 +38,16 @@ your research, consider citing our paper as follows:
 
 Below is a description of the contents of this repository:
 
-* [`publication-analysis.yml`](./publication-analysis.yml):
+* [`data/publication-analysis.yml`](data/publication-analysis.yml):
   contains the results of our publication analysis.
+  A description of the format of this file is given below.
+* [`data/aec.csv`](data/aec.csv):
+  contains data on the number of artifacts submitted to and accepted by the
+  artifact evaluation committee at FSE between 2015 and 2018, inclusive.
+  We also include a count of the number of papers that we determined to contain
+  artifacts, based on the results of our publication analysis.
+* [`data/author-survey-quantitative.csv`](data/author-survey-quantitative.csv):
+  contains the quantitative results from our author survey.
   A description of the format of this file is given below.
 * [`survey-questionnaire.pdf`](./survey-questionnaire.pdf):
   outlines the questionnaire that was given to
@@ -46,12 +61,23 @@ Below is a description of the contents of this repository:
   provides the form that was used by participants to
   give their consent for the investigators to use their responses as part of the
   study.
+* [`se-artifacts.ipynb`](./se-artifacts.ipynb):
+  provides the [Jupyter notebook](https://jupyter.org/) used to produce the
+  figures in the paper.
+* [`scripts/dblp.py`](scripts/dblp.py):
+  provides the script that was used to obtain a list of technical papers at
+  ICSE, FSE, ASE, and EMSE between 2014 and 2018, inclusive.
+* [`data/dblp-2018-11-01.xml.gz`](data/dblp-2018-11-01.xml.gz):
+  the DBLP snapshot that was used to construct the publication dataset.
+* [`data/dois.txt`](data/dois.txt):
+  a newline-delimited list of the DOIs of the technical papers published at
+  ICSE, FSE, ASE, and EMSE between 2014 and 2018, inclusive.
 
-Note that, due to the risk of reidentification, we do not provide our survey data
-as part of our replication package.
+Note that, due to the risk of reidentification, we do not provide the qualitative
+results from our survey of authors as part of our replication package.
 
 
-### Data Format: Publication Analysis
+### Publication Analysis
 
 The publication analysis, represented as a YAML document, describes all technical
 track publications at [ICSE](http://www.icse-conferences.org/),
@@ -82,3 +108,36 @@ Each paper is described as an object with the following fields:
 The contents of the document were obtained through a combination of (a)
 scraping [dblp](https://dblp.uni-trier.de/), and (b) manually identifying and
 checking the liveness of the links contained in each paper.
+
+
+### Author Survey Quantitative Responses
+
+We provide responses to the quantitative components of our author survey in the form
+of a CSV file. Single choice questions are represented by a single column (e.g., `Q2`),
+whereas multiple choice questions are given a separate column for each predefined
+response (e.g., `Q5_2`). The first row contains the number of the associated question,
+and the second row states the question itself.
+To preserve anonymity, we removed participant numbers and shuffled responses.
+
+
+### Jupyter Notebook
+
+The dependencies required to use our notebook can be installed using
+[pipenv](https://pypi.org/project/pipenv/), a popular tool for managing Python
+virtual environments.
+
+```
+$ pipenv install
+```
+
+To open our notebook using the classic Jupyter Notebook:
+
+```
+$ pipenv run jupyter notebook se-artifacts.ipynb
+```
+
+To open our notebook using Jupyter Lab:
+
+```
+$ pipenv run jupyter-lab se-artifacts.ipynb
+```

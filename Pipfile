@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "==2.2.9"
+pandas = "==1.1.5"
+matplotlib = "==3.3.3"
+tikzplotlib = "==0.9.6"
+pyyaml = "==5.3.1"
+seaborn = "==0.11.1"
+lxml = "==4.6.2"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

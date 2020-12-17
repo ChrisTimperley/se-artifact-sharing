@@ -92,7 +92,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Instruments
@@ -141,7 +140,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 10
   index-terms:
     ieee:
     - Privacy
@@ -203,7 +201,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 5
   index-terms:
     ieee:
     - Measurement
@@ -236,7 +233,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Databases
@@ -291,7 +287,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Libraries
@@ -334,7 +329,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Interviews
@@ -369,7 +363,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Security
@@ -397,7 +390,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 9
   index-terms:
     ieee:
     - Natural languages
@@ -433,7 +425,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 7
   index-terms:
     ieee:
     - Portals
@@ -481,7 +472,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Software
@@ -596,7 +586,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 4
   index-terms:
     ieee:
     - Tuning
@@ -631,7 +620,6 @@
   year: 2017
   badges: []
   artifact-links: []
-    ieee: 0
   index-terms:
     ieee:
     - Software engineering
@@ -668,7 +656,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 7
   index-terms:
     ieee:
     - Libraries
@@ -707,7 +694,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 32
   index-terms:
     ieee:
     - Cloning
@@ -751,7 +737,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Cognition
@@ -1040,7 +1025,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Games
@@ -1155,7 +1139,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Tutorials
@@ -1234,7 +1217,6 @@
   artifact-links:
   - url: http://utdallas.edu/~yxl131230/icse16support.html
     is-alive: true
-    ieee: 5
   index-terms:
     ieee:
     - Testing
@@ -1270,7 +1252,6 @@
     is-alive: true
   venue: ICSE
   year: 2017
-    ieee: 6
   index-terms:
     ieee:
     - Documentation
@@ -1323,7 +1304,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 7
   index-terms:
     ieee:
     - Semantics
@@ -1352,7 +1332,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 6
   index-terms:
     ieee:
     - Semantics
@@ -1408,7 +1387,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 5
   index-terms:
     ieee:
     - Testing
@@ -1458,7 +1436,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 10
   index-terms:
     ieee:
     - Bayes methods
@@ -1562,7 +1539,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 9
   index-terms:
     ieee:
     - Maintenance engineering
@@ -1626,7 +1602,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Biomedical imaging
@@ -1662,7 +1637,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Interoperability
@@ -1701,7 +1675,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 12
   index-terms:
     ieee:
     - Testing
@@ -2024,7 +1997,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Testing
@@ -2056,7 +2028,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Testing
@@ -2087,7 +2058,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 5
   index-terms:
     ieee:
     - Software packages
@@ -2125,7 +2095,6 @@
     is-alive: false
   venue: ICSE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Latches
@@ -2261,7 +2230,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Computer bugs
@@ -2285,7 +2253,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Optimization
@@ -2459,7 +2426,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 10
   index-terms:
     ieee:
     - Software
@@ -2484,7 +2450,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Concurrent computing
@@ -2512,7 +2477,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Tools
@@ -2568,7 +2532,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Registers
@@ -2656,7 +2619,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 7
   index-terms:
     ieee:
     - Maintenance engineering
@@ -2701,7 +2663,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 15
   index-terms:
     ieee:
     - Mobile communication
@@ -2907,7 +2868,6 @@
   artifact-links:
   - url: http://henard.net/research/regression/ICSE_2016/
     is-alive: true
-    ieee: 17
   index-terms:
     ieee:
     - Testing
@@ -2965,7 +2925,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Scalability
@@ -3188,7 +3147,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Instruments
@@ -3232,7 +3190,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Androids
@@ -3305,7 +3262,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Computer bugs
@@ -3388,7 +3344,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 8
   index-terms:
     ieee:
     - Software quality
@@ -3427,7 +3382,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 4
   index-terms:
     ieee:
     - Tutorials
@@ -3461,8 +3415,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-  note: FIXME bad PDF -- needs to be replaced
-    ieee: 7
   index-terms:
     ieee:
     - Testing
@@ -3587,7 +3539,6 @@
   artifact-links:
   - url: http://zen-tools.com/ICSE2015.html
     is-alive: false
-    ieee: 11
   index-terms:
     ieee:
     - Classification algorithms
@@ -3719,7 +3670,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Reactive power
@@ -3753,7 +3703,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Java
@@ -3807,7 +3756,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Multiskilling
@@ -3862,7 +3810,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Java
@@ -3925,7 +3872,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -3971,7 +3917,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Tools
@@ -4034,7 +3979,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Quality of service
@@ -4068,7 +4012,6 @@
   artifact-links:
   - url: http://www.cs.utexas.edu/users/jongwook/r3/
     is-alive: false
-    ieee: 2
   index-terms:
     ieee:
     - Java
@@ -4121,7 +4064,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Computational modeling
@@ -4219,7 +4161,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Testing
@@ -4315,7 +4256,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Software engineering
@@ -4434,7 +4374,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 4
   index-terms:
     ieee:
     - Data mining
@@ -4468,7 +4407,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Servers
@@ -4554,7 +4492,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 8
   index-terms:
     ieee:
     - Maintenance engineering
@@ -4697,7 +4634,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Software
@@ -4780,7 +4716,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 26
   index-terms:
     ieee:
     - Computer bugs
@@ -4969,7 +4904,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 17
   index-terms:
     ieee:
     - Encoding
@@ -5057,7 +4991,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Software
@@ -5088,7 +5021,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - History
@@ -5184,7 +5116,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 20
   index-terms:
     ieee:
     - Predictive models
@@ -5225,7 +5156,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 8
   index-terms:
     ieee:
     - Testing
@@ -5283,7 +5213,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Games
@@ -5378,7 +5307,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 4
   index-terms:
     ieee:
     - Malware
@@ -5406,7 +5334,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 14
   index-terms:
     ieee:
     - Estimation
@@ -5446,7 +5373,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Java
@@ -5474,7 +5400,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Unified modeling language
@@ -5519,7 +5444,6 @@
   venue: ICSE
   year: 2016
   artifact-links: []
-    ieee: 1
   index-terms:
     ieee:
     - Picture archiving and communication systems
@@ -5554,7 +5478,6 @@
   - url: http://tiny.cc/ICSE17
     redirects-to: https://users.encs.concordia.ca/~nikolaos/ICSE_2017/
     is-alive: true
-    ieee: 5
   index-terms:
     ieee:
     - Cloning
@@ -5601,7 +5524,6 @@
   - url: http://www.ifi.uzh.ch/seal/people/mueller/PredictCodeQualityWithBiometrics
     redirects-to: https://drive.google.com/drive/u/0/folders/0BxsKBTeTSURbfmhkUjcxTXJCQmt4cjM5bnlBV0JwZlh5dmI3YzJiRjJieHYwemd6dkxYZVU
     is-alive: true
-    ieee: 2
   index-terms:
     ieee:
     - Biometrics (access control)
@@ -5633,7 +5555,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Computational modeling
@@ -5671,7 +5592,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Maintenance engineering
@@ -5717,7 +5637,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 5
   index-terms:
     ieee:
     - Computer bugs
@@ -5814,7 +5733,6 @@
   year: 2017
   badges: []
   artifact-links: []
-    ieee: 0
   index-terms:
     ieee:
     - Software engineering
@@ -5897,7 +5815,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Java
@@ -5939,7 +5856,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Security
@@ -6030,7 +5946,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 9
   index-terms:
     ieee:
     - Debugging
@@ -6120,7 +6035,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Heuristic algorithms
@@ -6144,7 +6058,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 11
   index-terms:
     ieee:
     - Benchmark testing
@@ -6218,7 +6131,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Computer bugs
@@ -6246,7 +6158,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 19
   index-terms:
     ieee:
     - Documentation
@@ -6306,7 +6217,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Sparks
@@ -6346,7 +6256,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Estimation
@@ -6410,7 +6319,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Software
@@ -6462,7 +6370,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Uniform resource locators
@@ -6496,7 +6403,6 @@
   artifact-links:
   - url: https://github.com/michaelpradel/ConTeGe
     is-alive: true
-    ieee: 1
   index-terms:
     ieee:
     - Instruction sets
@@ -6615,7 +6521,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 4
   index-terms:
     ieee:
     - Java
@@ -6670,7 +6575,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 7
   index-terms:
     ieee:
     - Algorithm design and analysis
@@ -6762,7 +6666,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Software reliability
@@ -6814,7 +6717,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -6866,7 +6768,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Software
@@ -6932,7 +6833,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Optimization
@@ -6985,7 +6885,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 14
   index-terms:
     ieee:
     - Java
@@ -7173,7 +7072,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 34
   index-terms:
     ieee:
     - Maintenance engineering
@@ -7387,7 +7285,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -7429,7 +7326,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Training
@@ -7456,7 +7352,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 4
   index-terms:
     ieee:
     - Software
@@ -7489,7 +7384,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Recommender systems
@@ -7519,7 +7413,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Computer bugs
@@ -7592,7 +7485,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 15
   index-terms:
     ieee:
     - Energy consumption
@@ -7622,7 +7514,6 @@
   badges: []
   venue: ICSE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Tools
@@ -7820,7 +7711,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Instruments
@@ -7903,7 +7793,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Browsers
@@ -7973,7 +7862,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Crawlers
@@ -8097,7 +7985,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 18
   index-terms:
     ieee:
     - Software
@@ -8225,7 +8112,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 7
   index-terms:
     ieee:
     - Loss measurement
@@ -8370,7 +8256,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Computer bugs
@@ -8432,7 +8317,6 @@
   artifact-links:
   - url: https://sabrinadfs.github.io/s-splat/
     is-alive: true
-    ieee: 0
   index-terms:
     ieee:
     - Testing
@@ -8479,7 +8363,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Debugging
@@ -8548,7 +8431,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Instruments
@@ -8621,7 +8503,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Software
@@ -8744,7 +8625,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Java
@@ -8825,7 +8705,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Semantics
@@ -8919,7 +8798,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Libraries
@@ -8974,7 +8852,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Software
@@ -9020,7 +8897,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 8
   index-terms:
     ieee:
     - Multitasking
@@ -9056,7 +8932,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Synchronization
@@ -9138,7 +9013,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 9
   index-terms:
     ieee:
     - Testing
@@ -9179,7 +9053,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 14
   index-terms:
     ieee:
     - Computer bugs
@@ -9288,7 +9161,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Optimization
@@ -9324,7 +9196,6 @@
   venue: ICSE
   year: 2016
   artifact-links: []
-    ieee: 6
   index-terms:
     ieee:
     - C++ languages
@@ -9356,7 +9227,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 5
   index-terms:
     ieee:
     - Servers
@@ -9381,7 +9251,6 @@
   artifact-links:
   - url: http://blogs.upb.de/sse/tools/stubdroid/
     is-alive: true
-    ieee: 4
   index-terms:
     ieee:
     - Libraries
@@ -9415,7 +9284,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Computer bugs
@@ -9578,7 +9446,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 5
   index-terms:
     ieee:
     - Hidden Markov models
@@ -9606,7 +9473,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Interviews
@@ -9675,7 +9541,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 0
   index-terms:
     ieee:
     - Tools
@@ -9731,7 +9596,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 5
   index-terms:
     ieee:
     - Semantics
@@ -9772,7 +9636,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 5
   index-terms:
     ieee:
     - DSL
@@ -9892,7 +9755,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Ontologies
@@ -10014,7 +9876,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Gaze tracking
@@ -10074,7 +9935,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 21
   index-terms:
     ieee:
     - Computer bugs
@@ -10122,7 +9982,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Androids
@@ -10186,7 +10045,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 7
   index-terms:
     ieee:
     - Interviews
@@ -10216,7 +10074,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 2
   index-terms:
     ieee:
     - Radar
@@ -10325,7 +10182,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 4
   index-terms:
     ieee:
     - Analytical models
@@ -10379,7 +10235,6 @@
     multiple precisions.'
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Software
@@ -10443,7 +10298,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 9
   index-terms:
     ieee:
     - Androids
@@ -10533,7 +10387,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -10588,7 +10441,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 0
   index-terms:
     ieee:
     - Analytical models
@@ -10908,7 +10760,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 4
   index-terms:
     ieee:
     - Optimization
@@ -10988,7 +10839,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -11017,7 +10867,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 4
   index-terms:
     ieee:
     - Algorithm design and analysis
@@ -11056,7 +10905,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Fats
@@ -11145,7 +10993,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 1
   index-terms:
     ieee:
     - Security
@@ -11217,7 +11064,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Computer architecture
@@ -11251,7 +11097,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 4
   index-terms:
     ieee:
     - Software
@@ -11286,7 +11131,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 7
   index-terms:
     ieee:
     - Software engineering
@@ -11331,7 +11175,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 21
   index-terms:
     ieee:
     - Semantics
@@ -11386,7 +11229,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 17
   index-terms:
     ieee:
     - Software engineering
@@ -11433,7 +11275,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 3
   index-terms:
     ieee:
     - Testing
@@ -11537,7 +11378,6 @@
     is-alive: false
   venue: ICSE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -11571,7 +11411,6 @@
   artifact-links:
   - url: http://web.cs.ucla.edu/~tianyi.zhang/grafter.html
     is-alive: true
-    ieee: 3
   index-terms:
     ieee:
     - Cloning
@@ -11601,7 +11440,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 4
   index-terms:
     ieee:
     - System recovery
@@ -11663,7 +11501,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 3
   index-terms:
     ieee:
     - Tutorials
@@ -11827,7 +11664,6 @@
     is-alive: true
   venue: ICSE
   year: 2017
-    ieee: 4
   index-terms:
     ieee:
     - DSL
@@ -11855,7 +11691,6 @@
   venue: ICSE
   year: 2017
   badges: []
-    ieee: 4
   index-terms:
     ieee:
     - Software
@@ -11913,7 +11748,6 @@
     is-alive: true
   venue: ICSE
   year: 2016
-    ieee: 6
   index-terms:
     ieee:
     - Feature extraction
@@ -11948,7 +11782,6 @@
   artifact-links: []
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Manuals
@@ -12018,7 +11851,6 @@
     is-alive: false
   venue: ICSE
   year: 2016
-    ieee: 2
   index-terms:
     ieee:
     - Quality of service
@@ -12107,7 +11939,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Semantics
@@ -12139,7 +11970,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 9
   index-terms:
     ieee:
     - Browsers
@@ -12203,7 +12033,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Security
@@ -12247,7 +12076,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Benchmark testing
@@ -12274,7 +12102,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Tools
@@ -12480,7 +12307,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Kernel
@@ -12512,7 +12338,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Tools
@@ -12599,7 +12424,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 16
   index-terms:
     ieee:
     - Semantics
@@ -12631,7 +12455,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Testing
@@ -12679,7 +12502,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Androids
@@ -12707,7 +12529,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Testing
@@ -12749,7 +12570,6 @@
   year: 2015
   artifact-links: []
   note: null
-    ieee: 29
   index-terms:
     ieee:
     - Java
@@ -12829,7 +12649,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 2
   index-terms:
     ieee:
     - Model checking
@@ -12966,7 +12785,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Maintenance engineering
@@ -12994,7 +12812,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 6
   index-terms:
     ieee:
     - Testing
@@ -13071,7 +12888,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Testing
@@ -13101,7 +12917,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 4
   index-terms:
     ieee:
     - Search engines
@@ -13135,7 +12950,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Cloning
@@ -13168,7 +12982,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Complexity theory
@@ -13304,7 +13117,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Heuristic algorithms
@@ -13389,7 +13201,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Java
@@ -13553,7 +13364,6 @@
   - url: http://bit.ly/2qBEUhi
     redirects-to: https://www.dropbox.com/sh/ny8g83gb8fkfp1z/AAAXtj0GMtDBEeWDCfMFyzYaa?dl=0
     is-alive: true
-    ieee: 2
   index-terms:
     ieee:
     - Synchronization
@@ -13618,7 +13428,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Unified modeling language
@@ -13677,7 +13486,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 0
   index-terms:
     ieee:
     - Testing
@@ -13804,7 +13612,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 1
   index-terms:
     ieee:
     - Inference algorithms
@@ -13842,7 +13649,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Testing
@@ -13885,7 +13691,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Androids
@@ -13916,7 +13721,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Concrete
@@ -13994,7 +13798,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Java
@@ -14027,7 +13830,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Interviews
@@ -14107,7 +13909,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 6
   index-terms:
     ieee:
     - Context
@@ -14155,7 +13956,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Testing
@@ -14219,7 +14019,6 @@
   artifact-links:
   - url: https://github.com/ProgramRepair/SearchRepair/
     is-alive: true
-    ieee: 28
   index-terms:
     ieee:
     - Maintenance engineering
@@ -14269,7 +14068,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 8
   index-terms:
     ieee:
     - History
@@ -14321,7 +14119,6 @@
     is-alive: false
   venue: ASE
   year: 2015
-    ieee: 5
   index-terms:
     ieee:
     - Scalability
@@ -14377,7 +14174,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Tools
@@ -14427,7 +14223,6 @@
     is-alive: false
   venue: ASE
   year: 2015
-    ieee: 12
   index-terms:
     ieee:
     - Androids
@@ -14460,7 +14255,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Interpolation
@@ -14542,7 +14336,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Algorithm design and analysis
@@ -14591,7 +14384,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 4
   index-terms:
     ieee:
     - Contracts
@@ -14642,7 +14434,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 5
   index-terms:
     ieee:
     - Arrays
@@ -14699,7 +14490,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Semantics
@@ -14845,7 +14635,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Meteorology
@@ -14870,7 +14659,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 20
   index-terms:
     ieee:
     - Predictive models
@@ -14892,7 +14680,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 4
   index-terms:
     ieee:
     - Reactive power
@@ -14933,7 +14720,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Collaboration
@@ -15015,7 +14801,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 9
   index-terms:
     ieee:
     - Unified modeling language
@@ -15047,7 +14832,6 @@
     is-alive: true
   - url: https://github.com/saltlab/led
     is-alive: true
-    ieee: 2
   index-terms:
     ieee:
     - Light emitting diodes
@@ -15183,7 +14967,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Hardware
@@ -15244,7 +15027,6 @@
     is-wip: true
   venue: ASE
   year: 2015
-    ieee: 4
   index-terms:
     ieee:
     - Cloning
@@ -15350,7 +15132,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 3
   index-terms:
     ieee:
     - Maintenance engineering
@@ -15377,7 +15158,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Natural languages
@@ -15545,7 +15325,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Measurement
@@ -15621,7 +15400,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Resource management
@@ -15734,7 +15512,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 1
   index-terms:
     ieee:
     - Instruction sets
@@ -15782,7 +15559,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Computer bugs
@@ -15843,7 +15619,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 12
   index-terms:
     ieee:
     - Androids
@@ -15979,7 +15754,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Software
@@ -16014,7 +15788,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 12
   index-terms:
     ieee:
     - Batteries
@@ -16061,7 +15834,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Computer bugs
@@ -16116,7 +15888,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 8
   index-terms:
     ieee:
     - Probabilistic logic
@@ -16202,7 +15973,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Unified modeling language
@@ -16329,7 +16099,6 @@
   artifact-links:
   - url: http://types.cs.washington.edu/sparta/
     is-alive: true
-    ieee: 11
   index-terms:
     ieee:
     - Androids
@@ -16406,7 +16175,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Tools
@@ -16455,7 +16223,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Data models
@@ -16598,7 +16365,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 5
   index-terms:
     ieee:
     - Computer bugs
@@ -16641,7 +16407,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Tools
@@ -16679,7 +16444,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 1
   index-terms:
     ieee:
     - Unified modeling language
@@ -16713,7 +16477,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Couplings
@@ -16742,7 +16505,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 6
   index-terms:
     ieee:
     - Portable document format
@@ -16772,7 +16534,6 @@
     wip: true
   venue: ASE
   year: 2017
-    ieee: 3
   index-terms:
     ieee:
     - Tools
@@ -16851,7 +16612,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Internet
@@ -16999,7 +16759,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 7
   index-terms:
     ieee:
     - Syntactics
@@ -17038,7 +16797,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Merging
@@ -17067,7 +16825,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 4
   index-terms:
     ieee:
     - Software
@@ -17134,7 +16891,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Computer bugs
@@ -17172,7 +16928,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Analytical models
@@ -17265,7 +17020,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Tools
@@ -17327,7 +17081,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Computer bugs
@@ -17364,7 +17117,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 1
   index-terms:
     ieee:
     - Concurrent computing
@@ -17408,7 +17160,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Maintenance engineering
@@ -17489,7 +17240,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Cost accounting
@@ -17533,7 +17283,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Reachability analysis
@@ -17558,7 +17307,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Testing
@@ -17598,7 +17346,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Upper bound
@@ -17620,7 +17367,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Binary codes
@@ -17685,7 +17431,6 @@
   artifact-links:
   - url: http://ahclab.naist.jp/pseudogen/
     is-alive: true
-    ieee: 10
   index-terms:
     ieee:
     - Natural languages
@@ -17719,7 +17464,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 7
   index-terms:
     ieee:
     - Inference algorithms
@@ -17775,7 +17519,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 9
   index-terms:
     ieee:
     - Software systems
@@ -17854,7 +17597,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Tools
@@ -17919,7 +17661,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 15
   index-terms:
     ieee:
     - Electronic mail
@@ -17952,7 +17693,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Mobile communication
@@ -17999,7 +17739,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Computer bugs
@@ -18039,7 +17778,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 14
   index-terms:
     ieee:
     - Androids
@@ -18153,7 +17891,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 5
   index-terms:
     ieee:
     - Graphical user interfaces
@@ -18256,7 +17993,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 7
   index-terms:
     ieee:
     - Unified modeling language
@@ -18316,7 +18052,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 2
   index-terms:
     ieee:
     - Graphical user interfaces
@@ -18363,7 +18098,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Tools
@@ -18413,7 +18147,6 @@
   artifact-links:
   - url: http://www.cse.ust.hk/~xguaa/srminer/appendix.html
     is-alive: true
-    ieee: 17
   index-terms:
     ieee:
     - Feature extraction
@@ -18447,7 +18180,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Semantics
@@ -18555,7 +18287,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 1
   index-terms:
     ieee:
     - Transfer functions
@@ -18638,7 +18369,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 11
   index-terms:
     ieee:
     - Testing
@@ -18720,7 +18450,6 @@
   artifact-links:
   - url: https://jeandersonbc.github.io/testsuite-parallelization
     is-alive: true
-    ieee: 0
   index-terms:
     ieee:
     - Testing
@@ -18764,7 +18493,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Graphical user interfaces
@@ -18858,7 +18586,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Adaptation models
@@ -18925,7 +18652,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 7
   index-terms:
     ieee:
     - Software
@@ -18989,7 +18715,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 6
   index-terms:
     ieee:
     - Computer bugs
@@ -19071,7 +18796,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 4
   index-terms:
     ieee:
     - Arrays
@@ -19147,7 +18871,6 @@
     is-alive: false
   venue: ASE
   year: 2015
-    ieee: 3
   index-terms:
     ieee:
     - Google
@@ -19177,7 +18900,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Maintenance engineering
@@ -19222,7 +18944,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Optimization
@@ -19364,7 +19085,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Automata
@@ -19445,7 +19165,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 2
   index-terms:
     ieee:
     - Debugging
@@ -19472,7 +19191,6 @@
   artifact-links: []
   venue: ASE
   year: 2015
-    ieee: 11
   index-terms:
     ieee:
     - Software systems
@@ -19530,7 +19248,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - System recovery
@@ -19567,7 +19284,6 @@
     is-alive: false
   venue: ASE
   year: 2015
-    ieee: 15
   index-terms:
     ieee:
     - Computer bugs
@@ -19628,7 +19344,6 @@
     is-alive: false
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Pragmatics
@@ -19663,7 +19378,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 14
   index-terms:
     ieee:
     - Predictive models
@@ -19693,7 +19407,6 @@
   artifact-links: []
   venue: ASE
   year: 2017
-    ieee: 0
   index-terms:
     ieee:
     - Data mining
@@ -19752,7 +19465,6 @@
     is-alive: true
   venue: ASE
   year: 2015
-    ieee: 9
   index-terms:
     ieee:
     - Software
@@ -19783,7 +19495,6 @@
     is-alive: true
   venue: ASE
   year: 2017
-    ieee: 1
   index-terms:
     ieee:
     - Graphical user interfaces
