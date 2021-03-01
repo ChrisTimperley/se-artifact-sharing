@@ -16387,6 +16387,8 @@
     affiliations:
     - LMU Munich, Germany
   doi: 10.1145/3238147.3238195
+  badges:
+    - ACM Available
   pages: 634-644
   title: Domain-independent multi-threaded software model checking.
   artifact-links:
@@ -18843,6 +18845,8 @@
     affiliations:
     - City University of Hong Kong, China
   doi: 10.1145/3238147.3238177
+  badges:
+    - ACM Available
   pages: 259-269
   title: 'ContractFuzzer: fuzzing smart contracts for vulnerability detection.'
   artifact-links:
