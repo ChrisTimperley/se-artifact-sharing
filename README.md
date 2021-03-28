@@ -67,6 +67,9 @@ Below is a description of the contents of this repository:
 * [`scripts/dblp.py`](scripts/dblp.py):
   provides the script that was used to obtain a list of technical papers at
   ICSE, FSE, ASE, and EMSE between 2014 and 2018, inclusive.
+* [`scripts/grab-urls.py`](scripts/grab-urls.py):
+  provides the script that was used to obtain a list of potential artifact
+  URLs from a given PDF.
 * [`data/dblp-2018-11-01.xml.gz`](data/dblp-2018-11-01.xml.gz):
   the DBLP snapshot that was used to construct the publication dataset.
 * [`data/dois.txt`](data/dois.txt):
