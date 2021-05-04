@@ -2,9 +2,10 @@
 
 This repository provides the associated publication analysis dataset and survey instrument
 for the research paper,
-"Understanding and Improving Artifact Sharing in Software Engineering Research",
-submitted to [Empirical Software Engineering](https://www.springer.com/journal/10664).
-An unrefereed preprint for the paper is available on arXiv: https://arxiv.org/abs/2008.01046.
+[Understanding and Improving Artifact Sharing in Software Engineering Research](http://dx.doi.org/10.1007/s10664-021-09973-5),
+published in [Empirical Software Engineering](https://www.springer.com/journal/10664).
+(http://dx.doi.org/10.1007/s10664-021-09973-5).
+A preprint for the paper is available on arXiv: https://arxiv.org/abs/2008.01046.
 
 The study was designed, conducted, and reported by the following investigators:
 
@@ -26,7 +27,7 @@ your research, consider citing our paper as follows:
 @misc{understanding-artifact-sharing,
   title={Understanding and Improving Artifact Sharing in Software Engineering Research}, 
   author={Christopher S. Timperley and Lauren Herckis and Claire {Le Goues} and Michael Hilton},
-  year={2020},
+  year={2021},
   eprint={2008.01046},
   archivePrefix={arXiv},
   primaryClass={cs.SE}
@@ -75,6 +76,8 @@ Below is a description of the contents of this repository:
 * [`data/dois.txt`](data/dois.txt):
   a newline-delimited list of the DOIs of the technical papers published at
   ICSE, FSE, ASE, and EMSE between 2014 and 2018, inclusive.
+* [`paper.pdf`](./paper.pdf):
+  provides a preprint of the paper.
 
 Note that, due to the risk of reidentification, we do not provide the qualitative
 results from our survey of authors as part of our replication package.
