@@ -7,6 +7,9 @@ published in [Empirical Software Engineering](https://www.springer.com/journal/1
 (http://dx.doi.org/10.1007/s10664-021-09973-5).
 A preprint for the paper is available on arXiv: https://arxiv.org/abs/2008.01046.
 
+This artifact is archived on Zenodo (https://doi.org/10.5281/zenodo.4737346) and hosted
+on GitHub (https://github.com/ChrisTimperley/se-artifact-sharing).
+
 The study was designed, conducted, and reported by the following investigators:
 
 * [Christopher S. Timperley](https://christimperley.co.uk) (Carnegie Mellon University)
