@@ -18,24 +18,6 @@ If you have any questions about the research or this replication package, you sh
 contact Christopher or Michael.
 
 
-## Citation Guidelines
-
-If this replication package or the results of the associated study has informed
-your research, consider citing our paper as follows:
-
-```
-@misc{understanding-artifact-sharing,
-  title={Understanding and Improving Artifact Sharing in Software Engineering Research}, 
-  author={Christopher S. Timperley and Lauren Herckis and Claire {Le Goues} and Michael Hilton},
-  year={2021},
-  eprint={2008.01046},
-  archivePrefix={arXiv},
-  primaryClass={cs.SE},
-  doi={10.1007/s10664-021-09973-5}
-}
-```
-
-
 ## Contents
 
 Below is a description of the contents of this repository:
